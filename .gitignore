@@ -1,6 +1,7 @@
 # uncompressed data set:
 data/raw/fullrjokesdata.json
 data/processed/joke_selection_untaged.json
+data\processed\joke_selection_untaged.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
