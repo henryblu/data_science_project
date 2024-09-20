@@ -2,6 +2,8 @@
 data/raw/fullrjokesdata.json
 data/processed/joke_selection_untaged.json
 data/raw/fullrjokes.json/fullrjokes.json
+data/processed/final_joke_dataset.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
