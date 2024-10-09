@@ -3,6 +3,17 @@ data/raw/fullrjokesdata.json
 data/processed/joke_selection_untaged.json
 data/raw/fullrjokes.json/fullrjokes.json
 data/processed/final_joke_dataset.json
+data/processed/output_final_joke_dataset_expanded.json
+data/processed/output_final_joke_dataset.json
+
+
+notebooks/exploratory/models/base_rf_classifier.joblib
+notebooks/exploratory/models/base_svc_classifier.joblib
+notebooks/exploratory/models/hypertuned_rf_classifier.joblib
+notebooks/exploratory/models/hypertuned_svc_classifier.joblib
+notebooks/exploratory/models/label_encoder.joblib
+notebooks/exploratory/models/scaler.joblib
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
